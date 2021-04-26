@@ -1,13 +1,13 @@
-file_name = "archetypes_nmapdata.gnmap"
-file_name1 = "archetypes_nmapdata.nmap"
+file_name = ""
+file_name1 = ""
 
 f = open(file_name)
 f = f.readlines()
 fsplit = f[0].split(' ')[5:][:5]
 
-g = open(file_name1)
-g = g.readlines()
-gsplit = ""
+#g = open(file_name1)
+#g = g.readlines()
+#gsplit = ""
 
 date = "Date: "
 for item in fsplit:
