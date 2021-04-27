@@ -1,5 +1,5 @@
 # Clean-.gnmap
-Cleans up the output of GNMap scans
+Cleans up the output of GNMap scan files
 
 THIS IS AN EXAMPLE:
 
